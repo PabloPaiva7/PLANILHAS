@@ -1,0 +1,21 @@
+id,PRODUCTS,PRICE,DESCOUNT,NAME,STATUS,LOC,PAYMENT METHODS
+9,Gaming Console,499.99,70%,Eduardo Rocha,Confirmed,Charlotte,Money Order
+8,Smart Home Device,45.99,60%,João Silva,Returned,Fort Worth,Mobile Payment
+7,Bluetooth Speaker,99.99,0%,André dos Santos,Pending,New York,Credit Card
+6,Camera,5.50,30%,Lucas Gomes,Successful,San Antonio,Digital Wallet
+5,Tablet,350.75,90%,Ricardo Tavares,Customer Canceled,Denver,Wire Transfer
+4,Smartwatch,200.00,15%,Ana Santos,In Progress,Houston,Bank Transfer
+3,Headphones,500.00,65%,Patrícia Dias,Awaiting Payment,Columbus,Gift Card
+20,Power Bank,250.50,55%,Carlos Pereira,Delivered,Jacksonville,Google Pay
+2,Laptop,20.75,45%,Sofia Ribeiro,Processed,San Jose,Buy Now Pay Later
+19,E-Reader,150.00,10%,Marcos Ferreira,Cancelled,Chicago,Cash
+18,Soundbar,15.25,50%,Fernando Barreto,Shipped,Austin,Apple Pay
+17,Drone,NULL,80%,Tatiane Pires,Failed Payment,Indianapolis,Payment via App
+16,Action Camera,30.50,85%,Maria Oliveira,Awaiting Fulfillment,Seattle,Direct Debit
+15,Virtual Reality Headset,300.00,5%,Camila Alves,Completed,Los Angeles,Debit Card
+14,External Hard Drive,999.99,75%,Fernanda Costa,Partially Shipped,San Francisco,Payment Plan
+13,Monitor,0.00,25%,Juliana Lima,Failed,Philadelphia,PayPal
+12,Keyboard,250.50,35%,Rafael Almeida,Refunded,San Diego,Cryptocurrency
+11,Fitness Tracker,1.99,20%,Roberto Martins,On Hold,Phoenix,Check
+10,Wireless Mouse,400.00,40%,Gabriel Nascimento,Disputed,Dallas,Invoice
+1,Smartphone,10.00,95%,Luciana Ribeiro,Fulfilled,Washington D.C.,Prepaid Card
